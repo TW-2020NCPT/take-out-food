@@ -6,7 +6,7 @@ function calculatePrice() {
   // 显示在html页面的`message`中
 }
 
-function clear() {
+function clearHistory() {
   // 清除用户的选择，以及页面显示的信息
   // 清除之后，用户可以继续正常使用各项功能
 }
